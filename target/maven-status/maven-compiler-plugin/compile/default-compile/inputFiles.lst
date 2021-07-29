@@ -1,0 +1,15 @@
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/model/Funcionario.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/reajuste/ValidacaoPeriodicidadeEntreReajustes.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/tributacao/Anuenio.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/reajuste/ValidacaoReajuste.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/tributacao/ReajusteTributavel.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/model/Terceirizado.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/promocao/PromocaoService.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/SolidApplication.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/exception/ValidacaoException.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/tributacao/Promocao.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/model/DadosPessoais.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/model/Cargo.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/reajuste/ReajusteService.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/reajuste/ValidacaoPercentualReajuste.java
+/Users/andrefranco/git/solid/src/main/java/com/estudos/solid/service/tributacao/Reajuste.java
